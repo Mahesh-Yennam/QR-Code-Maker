@@ -1,0 +1,16 @@
+{
+  "name": "Instant QR Code Maker Pro — Gamility Tools",
+  "short_name": "QRMaker Pro",
+  "description": "High-resolution, 100% private in-browser QR code generator with PNG and SVG export.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090e1a",
+  "theme_color": "#090e1a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
